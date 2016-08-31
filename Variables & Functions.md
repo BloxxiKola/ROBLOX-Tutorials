@@ -12,4 +12,4 @@ Let's try setting a variable to something in the `Workspace`, the player's world
 
 We now have a Part in the Workspace. Now, right click that part in your `Explorer` tab, and hover over "Insert Object", and click "Script".
 
-![](http://orig02.deviantart.net/129c/f/2016/244/f/f/insertpart_by_bloxxikola-dag4u3b.png "Insert a script.")
+![](http://orig02.deviantart.net/7a10/f/2016/244/f/b/insertscript_by_bloxxikola-dag4x42.png "Insert a script.")
