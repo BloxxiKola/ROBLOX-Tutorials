@@ -18,4 +18,10 @@ Now we have a Part in the Workspace, and a Script in that part. Next, double-cli
 
 In the editor, type `local part = game.Workspace.Part` to set a variable as the part. 
 
-Remember! Capitalization is very important, one mispelled or miscapitalized word can error the entire script!
+**Remember! Capitalization is very important, one mispelled or miscapitalized word can error the entire script!**
+
+Now "part" is set as the Part we inserted into the Workspace. However, this is inefficient. If we need to put the part into something else, we'd have to change the code. and easier way to do this is:
+
+`local part = script.Parent`
+
+"script" is the current script we're editing. "Parent" refers to what the script is in. If we said `local workspace = part.Parent`, we'd be setting the variable as Workspace, the Part's parent, or what the part is in.
