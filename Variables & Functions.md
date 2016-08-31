@@ -13,3 +13,9 @@ Let's try setting a variable to something in the `Workspace`, the player's world
 We now have a Part in the Workspace. Now, right click that part in your `Explorer` tab, and hover over "Insert Object", and click "Script".
 
 ![](http://orig02.deviantart.net/7a10/f/2016/244/f/b/insertscript_by_bloxxikola-dag4x42.png "Insert a script.")
+
+Now we have a Part in the Workspace, and a Script in that part. Next, double-click the script to open the editor. 
+
+In the editor, type `local part = game.Workspace.Part` to set a variable as the part. 
+
+Remember! Capitalization is very important, one mispelled or miscapitalized word can error the entire script!
