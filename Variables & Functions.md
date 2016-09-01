@@ -1,4 +1,4 @@
-### Heyo! I'm BloxxiKola and this tutorial is about Variables and Functions in ROBLOX Lua.
+#_**ROBLOX TUTORIALS**_
 ---
 ## _**VARIABLES**_
 
