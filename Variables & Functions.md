@@ -2,9 +2,9 @@
 ---
 ## _**VARIABLES**_
 
-A **Variable** is a changable _value_ with a corresponding _identifier_, or nickname.
+A **Variable** is a changable _value_ with a corresponding _identifier_, or nickname. For example: 
 
-For example: `local identifier = value`
+> **local** identifier = value
 
 You'll notice I used **"local"** at the front of the text. This tells the computer that _you're_ creating the variable, it's not built into ROBLOX Lua.
 
@@ -46,3 +46,11 @@ Boom! No errors, a programmer's dream. Everything I just showed you can be appli
 
 ---
 ## _**FUNCTIONS**_
+
+A function is a chunk of code that performs a certain task after being called later in the script, and can be caled multiple times. For example:
+
+> **local** function name()
+
+> procedure
+
+> **end**
