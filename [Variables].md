@@ -2,9 +2,9 @@
 ---
 ## _**VARIABLES**_
 
-A **Variable** is a changable _value_ with a corresponding _identifier_, or nickname. For example: 
+A **Variable** is a changable _value_ with a corresponding _identifier_, or nickname.
 
-> **local** identifier = value
+For example:`local identifier = value`
 
 You'll notice I used **"local"** at the front of the text. This tells the computer that _you're_ creating the variable, it's not built into ROBLOX Lua.
 
@@ -43,14 +43,3 @@ That's because the computer doesn't know which folder I'm talking about, so it g
 ![](http://orig09.deviantart.net/4469/f/2016/245/e/b/specific_by_bloxxikola-dag8wkf.png "I hereby pronounce thee, sir folder.")
 
 Boom! No errors, a programmer's dream. Everything I just showed you can be applied anywhere, go make some variables!
-
----
-## _**FUNCTIONS**_
-
-A function is a chunk of code that performs a certain task after being called later in the script, and can be caled multiple times. For example:
-
-> **local** function name()
-
-> procedure
-
-> **end**
