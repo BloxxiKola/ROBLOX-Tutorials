@@ -4,7 +4,7 @@
 
 A **Variable** is a changable _value_ with a corresponding _identifier_, or nickname.
 
-For example:`local identifier = value`
+For example: `local identifier = value`
 
 You'll notice I used **"local"** at the front of the text. This tells the computer that _you're_ creating the variable, it's not built into ROBLOX Lua.
 
